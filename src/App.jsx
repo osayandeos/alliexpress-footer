@@ -9,6 +9,11 @@ function App() {
   return (
     <>
       <div className="min-h-screen ">
+      <main className="flex-1">
+        {/* page content placeholder */}
+        <div className="h-96 bg-white" />
+      </main>
+
       <Footer />
     </div>
     </>
